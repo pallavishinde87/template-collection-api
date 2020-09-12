@@ -1,0 +1,25 @@
+END_POINT = "end_point"
+REQUEST_ID = "request_id"
+SOURCE_IP = "source_ip"
+REMOTE_ADDR = "REMOTE_ADDR"
+REQUEST_PATH = "request_path"
+PATH_INFO = "PATH_INFO"
+QUERY_STRING = "query_string"
+REQUEST_METHOD = "REQUEST_METHOD"
+ACCEPT = "accept"
+HEADERS = "headers"
+REQUEST_PARAMS = "request_params"
+GET_CUSTOMER_TEMPLATE = "get_customer_template"
+GENERATE_CUSTOMER_TEMPLATE = "generate_customer_template"
+RESPONSE_HEADER = {'Content-Type': 'application/json'}
+MAX_LIMIT = 25
+INITIAL_OFFSET = 0
+TYPE = "type"
+ENTITY = "entity"
+CUSTOMER_ID = "customer_id"
+LAW = "law"
+FIELDS = "fields"
+CUSTOMER = "customer"
+BASE = "base"
+SYSTEM = "system"
+
